@@ -1,0 +1,4 @@
+name: Particle
+version: '${project.version}'
+main: de.tom.particle.Particle
+authors: [ Tom ]
